@@ -1,0 +1,20 @@
+img{
+    height: 200px;
+    width: 200px;
+    margin: 10px;
+    border-radius: 50%;
+}
+p{
+    color: rgba(255, 255, 0, 0.849);
+    font-size: 30px;
+    font-weight: 200;
+}
+.dalleimg{
+    text-align: center;
+}
+body{
+    background: linear-gradient(to right, #f3904f, #3b4371);
+}
+h1{
+    color: white;
+}
